@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+I'm a telecom and IT engineer, I'm sharing with you tech tips and news
